@@ -1,0 +1,18 @@
+.squareContainer {
+    margin-top: 100px;
+    position: relative;
+    top: 100px;
+    display: flex;
+    flex-direction: column;
+}
+
+.gridRows {
+    display: flex;
+    flex-direction: row;
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+}
